@@ -23,4 +23,4 @@ But, the color of the circle changes or flickering.
 
 |Expected|Bug|
 |:---|:---|
-|||
+|<img width=300 src="https://user-images.githubusercontent.com/11660859/110802388-7c430c80-82c1-11eb-9f5c-f908c175607f.png"/>|<img width=300 src="https://user-images.githubusercontent.com/11660859/111161029-07801300-85de-11eb-9b4f-93f37aa11e9d.png"/>|
